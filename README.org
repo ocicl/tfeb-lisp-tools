@@ -4,7 +4,7 @@ TFEB.ORG Lisp tools
 
 |---------+-------------------------------------------|
 | source  | git:https://github.com/tfeb/tfeb-lisp-tools.git   |
-| commit  | {"messa  |
+| commit  | 705c755  |
 | systems | tfeb-lisp-tools |
 |---------+-------------------------------------------|
 
