@@ -5,5 +5,5 @@ TFEB.ORG Lisp tools
 |---------+--------------------------------------------------------------------------------------------|
 | source  | git:https://github.com/tfeb/tfeb-lisp-tools.git                                            |
 | commit  | 705c755                                                                                    |
-| systems | org.tfeb.tools.require-module org.tfeb.tools.install-providers org.tfeb.tools.feature-expressions org.tfeb.tools.deprecations org.tfeb.tools.build-modules org.tfeb.tools.asdf-module-sysdcls org.tfeb.  |
+| systems | org.tfeb.tools.require-module org.tfeb.tools.install-providers org.tfeb.tools.feature-expressions org.tfeb.tools.deprecations org.tfeb.tools.build-modules org.tfeb.tools.asdf-module-sysdcls org.tfeb.tools |
 |---------+--------------------------------------------------------------------------------------------|
